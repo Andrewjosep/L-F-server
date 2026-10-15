@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Student ID Card",
+      "type": "Lost",
+      "category": "ID Cards",
+      "description": "Lost my college ID card near the library.",
+      "location": "College Library",
+      "date": "2026-10-10",
+      "contactName": "Arjun Menon",
+      "contactEmail": "arjun@example.com",
+      "image": "",
+      "status": "Open",
+      "createdAt": "2026-10-10T09:30:00"
+    },
+    {
+      "id": "2",
+      "title": "Black Wireless Earbuds",
+      "type": "Found",
+      "category": "Electronics",
+      "description": "Found a black earbuds case in the college cafeteria.",
+      "location": "College Cafeteria",
+      "date": "2026-10-11",
+      "contactName": "Rahul Kumar",
+      "contactEmail": "rahul@example.com",
+      "image": "",
+      "status": "Open",
+      "createdAt": "2026-10-11T12:00:00"
+    },
+    {
+      "id": "3",
+      "title": "Engineering Mathematics Notebook",
+      "type": "Lost",
+      "category": "Books & Notes",
+      "description": "A blue mathematics notebook misplaced after class.",
+      "location": "Block A, Room 204",
+      "date": "2026-10-12",
+      "contactName": "Ananya Nair",
+      "contactEmail": "ananya@example.com",
+      "image": "",
+      "status": "Resolved",
+      "createdAt": "2026-10-12T14:15:00"
+    },
+    {
+      "title": "tth",
+      "category": "Other",
+      "description": "hjtukyiul",
+      "location": "mhkilok",
+      "date": "2026-10-08",
+      "contactName": "khiuiuou",
+      "contactEmail": "ttfhg@bjhj.com",
+      "type": "Lost",
+      "status": "Open",
+      "image": "",
+      "createdAt": "2026-10-14T07:33:39.322Z",
+      "id": "avK1Dh5"
+    }
+  ]
+}
